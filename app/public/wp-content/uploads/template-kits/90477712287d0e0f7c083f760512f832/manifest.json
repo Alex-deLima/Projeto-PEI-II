@@ -1,0 +1,1097 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Aquwash - Car Wash and Detailing Service Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "http:\/\/askproject.net",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "http:\/\/askproject.net\/aquwash\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "http:\/\/askproject.net\/aquwash\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "http:\/\/askproject.net\/aquwash\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "http:\/\/askproject.net\/aquwash\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "http:\/\/askproject.net\/aquwash\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Detail",
+            "screenshot": "screenshots\/service-detail.jpg",
+            "source": "templates\/service-detail.json",
+            "preview_url": "http:\/\/askproject.net\/aquwash\/template-kit\/service-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonial",
+            "screenshot": "screenshots\/testimonial.jpg",
+            "source": "templates\/testimonial.json",
+            "preview_url": "http:\/\/askproject.net\/aquwash\/template-kit\/testimonial\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "http:\/\/askproject.net\/aquwash\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "http:\/\/askproject.net\/aquwash\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQs",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "http:\/\/askproject.net\/aquwash\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "http:\/\/askproject.net\/aquwash\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "http:\/\/askproject.net\/aquwash\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "http:\/\/askproject.net\/aquwash\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "http:\/\/askproject.net\/aquwash\/template-kit\/404-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Gum Elementor Addon",
+            "version": "1.2.18",
+            "file": "gum-elementor-addon\/gum-elementor-addon.php",
+            "author": "TemeGUM"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.9.2",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "WPForms Lite",
+            "version": "1.7.8",
+            "file": "wpforms-lite\/wpforms.php",
+            "author": "WPForms"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.13",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.8.0",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "logo_Asset-4.png",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/logo_Asset-4-800x368.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 27607,
+            "dimensions": [
+                1001,
+                461
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo_Asset-3.png",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/logo_Asset-3-800x368.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 26563,
+            "dimensions": [
+                1001,
+                461
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "friendly-cute-pleasant-asian-woman-showing-way-in-3KHRWN2.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/friendly-cute-pleasant-asian-woman-showing-way-in-3KHRWN2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 70388,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3KHRWN2"
+        },
+        {
+            "filename": "girl-searching-gifts-for-holidays-online-carefree-GGDCXRK.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/girl-searching-gifts-for-holidays-online-carefree-GGDCXRK.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 118285,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GGDCXRK"
+        },
+        {
+            "filename": "thoughtful-silly-girl-with-cute-curly-hairstyle-b-6M3LUVX.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/thoughtful-silly-girl-with-cute-curly-hairstyle-b-6M3LUVX.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 94052,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6M3LUVX"
+        },
+        {
+            "filename": "cheerful-friendly-asian-female-blond-hairstyle-wea-GNF7LX2.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/cheerful-friendly-asian-female-blond-hairstyle-wea-GNF7LX2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 96755,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GNF7LX2"
+        },
+        {
+            "filename": "cleaning-of-modern-rims-of-luxury-yellow-car-at-se-SDA8U2E.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/cleaning-of-modern-rims-of-luxury-yellow-car-at-se-SDA8U2E-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 208327,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SDA8U2E"
+        },
+        {
+            "filename": "cleaning-car-with-high-pressure-water-at-car-wash-4TTCBX3.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/cleaning-car-with-high-pressure-water-at-car-wash-4TTCBX3-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 198255,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-4TTCBX3"
+        },
+        {
+            "filename": "worker-with-polishing-machine-cleans-car-hood-MYFCBD9.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/worker-with-polishing-machine-cleans-car-hood-MYFCBD9-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 151438,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MYFCBD9"
+        },
+        {
+            "filename": "man-using-sponge-with-foam-hand-car-wash-4CCXK36.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/man-using-sponge-with-foam-hand-car-wash-4CCXK36-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 171491,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4CCXK36"
+        },
+        {
+            "filename": "asian-man-and-car-E3DJPAA.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/asian-man-and-car-E3DJPAA-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 168357,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-E3DJPAA"
+        },
+        {
+            "filename": "car-washing-on-open-air-SLQMQ6V.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/car-washing-on-open-air-SLQMQ6V-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 242833,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SLQMQ6V"
+        },
+        {
+            "filename": "man-washing-his-luxury-yellow-car-under-high-press-TYJVQEK.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/man-washing-his-luxury-yellow-car-under-high-press-TYJVQEK-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 184796,
+            "dimensions": [
+                1200,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TYJVQEK"
+        },
+        {
+            "filename": "woman-working-at-customer-service-company-FFUJGSN.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/woman-working-at-customer-service-company-FFUJGSN-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 111737,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FFUJGSN"
+        },
+        {
+            "filename": "bg.png",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/bg-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 30332,
+            "dimensions": [
+                2500,
+                2500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "young-african-man-with-high-pressure-jet-spraying-QYERF3L.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/young-african-man-with-high-pressure-jet-spraying-QYERF3L-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 234767,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QYERF3L"
+        },
+        {
+            "filename": "close-up-of-the-process-of-removing-dust-with-a-br-L3XFNTG.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/close-up-of-the-process-of-removing-dust-with-a-br-L3XFNTG-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 184746,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-L3XFNTG"
+        },
+        {
+            "filename": "a-male-detailer-with-brush-cleaning-the-engine-bay-6YADM66.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/a-male-detailer-with-brush-cleaning-the-engine-bay-6YADM66-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 214630,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6YADM66"
+        },
+        {
+            "filename": "worker-of-self-car-wash-service-in-gray-overalls-a-ADFFCM3.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/worker-of-self-car-wash-service-in-gray-overalls-a-ADFFCM3-800x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 146810,
+            "dimensions": [
+                2000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ADFFCM3"
+        },
+        {
+            "filename": "yellowcar.png",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/yellowcar-800x451.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 177817,
+            "dimensions": [
+                1200,
+                677
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "woman-working-at-customer-service-compan-FFUJGSN.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/woman-working-at-customer-service-compan-FFUJGSN-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 159516,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FFUJGSN"
+        },
+        {
+            "filename": "manual-car-wash-MLLB4YX.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/manual-car-wash-MLLB4YX-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 193974,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MLLB4YX"
+        },
+        {
+            "filename": "pretty-woman-working-as-mechanic-in-autoservice-2EQDX92.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/pretty-woman-working-as-mechanic-in-autoservice-2EQDX92.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 103698,
+            "dimensions": [
+                800,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2EQDX92"
+        },
+        {
+            "filename": "brutal-muscular-mechanic-holding-wrenches-posing-HCU5KKQ.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/brutal-muscular-mechanic-holding-wrenches-posing-HCU5KKQ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 112859,
+            "dimensions": [
+                800,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HCU5KKQ"
+        },
+        {
+            "filename": "pretty-girl-mechanic-posing-with-notebook-in-auto-4STKZQC.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/pretty-girl-mechanic-posing-with-notebook-in-auto-4STKZQC.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 104366,
+            "dimensions": [
+                800,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4STKZQC"
+        },
+        {
+            "filename": "woman-disinfects-a-car-door-handle-with-an-antibac-S8RHK3K.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/woman-disinfects-a-car-door-handle-with-an-antibac-S8RHK3K-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 156953,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-S8RHK3K"
+        },
+        {
+            "filename": "man-holds-high-pressure-water-gun-car-wash-N4Y8FNP.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/man-holds-high-pressure-water-gun-car-wash-N4Y8FNP-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 151524,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-N4Y8FNP"
+        },
+        {
+            "filename": "male-bearded-worker-in-blue-overalls-and-protectiv-8BR8N33.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/male-bearded-worker-in-blue-overalls-and-protectiv-8BR8N33-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 153464,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8BR8N33"
+        },
+        {
+            "filename": "manual-car-wash-AGJ9V53.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/manual-car-wash-AGJ9V53-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 145664,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AGJ9V53"
+        },
+        {
+            "filename": "crop-close-up-of-handsome-bearded-young-african-gu-FZNFEMM.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/crop-close-up-of-handsome-bearded-young-african-gu-FZNFEMM-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 187863,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FZNFEMM"
+        },
+        {
+            "filename": "mechanic-posing-at-modern-factory-78E3PJB.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/mechanic-posing-at-modern-factory-78E3PJB.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 174766,
+            "dimensions": [
+                800,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-78E3PJB"
+        },
+        {
+            "filename": "modern-mechanic-posing-in-workshop-69LB3Y8.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/modern-mechanic-posing-in-workshop-69LB3Y8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 105105,
+            "dimensions": [
+                800,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-69LB3Y8"
+        },
+        {
+            "filename": "mechanic-in-auto-shop-PHQNK2T.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/mechanic-in-auto-shop-PHQNK2T.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 93260,
+            "dimensions": [
+                800,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PHQNK2T"
+        },
+        {
+            "filename": "bg2.png",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/bg2-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 30283,
+            "dimensions": [
+                2500,
+                2500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "transparentbg.png",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/transparentbg-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 30271,
+            "dimensions": [
+                2500,
+                2500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "man-using-sponge-with-foam-hand-car-wash-B72Q88D.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/man-using-sponge-with-foam-hand-car-wash-B72Q88D-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 198809,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-B72Q88D"
+        },
+        {
+            "filename": "manual-car-wash-with-pressurized-water-in-car-wash-ANEKKH2.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/manual-car-wash-with-pressurized-water-in-car-wash-ANEKKH2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 228778,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ANEKKH2"
+        },
+        {
+            "filename": "clean-car-concept-car-wash-UMLS2SA.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/clean-car-concept-car-wash-UMLS2SA-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 172430,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UMLS2SA"
+        },
+        {
+            "filename": "404_Asset-6.png",
+            "thumbnail_url": "http:\/\/askproject.net\/aquwash\/wp-content\/uploads\/sites\/124\/2022\/12\/404_Asset-6-800x311.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 20046,
+            "dimensions": [
+                1501,
+                583
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

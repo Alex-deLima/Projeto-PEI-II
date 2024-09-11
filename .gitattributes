@@ -1,0 +1,4 @@
+*.wpress filter=lfs diff=lfs merge=lfs -text
+app/public/wp-content/ai1wm-backups/*.wpress filter=lfs diff=lfs merge=lfs -text
+app/public/wp-content/ai1wm-backups/pubcar.local-20240909-130645-203 filter=lfs diff=lfs merge=lfs -text
+wp-content/* filter=lfs diff=lfs merge=lfs -text
